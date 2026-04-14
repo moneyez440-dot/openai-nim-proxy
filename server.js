@@ -36,7 +36,7 @@ const ENABLE_THINKING_MODE = true;
 // Model mapping - change these to whatever models you want
 const MODEL_MAPPING = {
   // Best for RP (fast + quality balance)
-  'gpt-3.5-turbo': 'meta/llama-3.3-70b-instruct',
+  'gpt-3.5-turbo': 'qwen/qwen3.5-397b-a17b',
 
   // Best for RP (highest quality, slower)
   'gpt-4o': 'deepseek-ai/deepseek-v3.2',
